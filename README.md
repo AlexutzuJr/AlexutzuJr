@@ -4,7 +4,7 @@
 - ⚡ I'm currently learning **DevOps**
 
 - 💬 Ask me about **Python, Machine Learning**
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexutzujr&label=Profile%20views&color=0e75b6&style=flat" alt="alexutzujr" /> </p>
 - 📫 You can reach me at **dinualexandru9@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
