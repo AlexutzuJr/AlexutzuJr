@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Alex]! 
+# 👋 Hi, I'm [Alex]!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&random=false&width=436&lines=AI+Enthusiast)](https://git.io/typing-svg)
 
@@ -22,10 +22,10 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46808?style=for-the-badge&logo=grafana&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C2D91?style=for-the-badge&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### ☄️ Databases
 
@@ -44,9 +44,15 @@
 ![Linux](https://img.shields.io/badge/Linux-0078D7?style=for-the-badge&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white)
 
-### ⚡ Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexutzujr&show_icons=true&locale=en" alt="alexutzujr" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexutzujr&show_icons=true&locale=en&layout=compact" alt="alexutzujr" /></p>
+## ⚡ Stats
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexutzujr&show_icons=true&locale=en&layout=compact" alt="alexutzujr" />
+  </div>
+  <div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexutzujr&show_icons=true&locale=en" alt="alexutzujr" />
+  </div>
+</div>
 
 ## 💼 Projects
 
