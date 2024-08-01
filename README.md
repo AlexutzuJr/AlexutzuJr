@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Alex**!
+# 👋 Hi, I'm ![Alex in Blue]
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&random=false&width=436&lines=AI+Enthusiast)](https://git.io/typing-svg)
 
