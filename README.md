@@ -45,12 +45,12 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white)
 
 ## ⚡ Stats
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexutzujr&show_icons=true&locale=en&layout=compact" alt="alexutzujr" />
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexutzujr&show_icons=true&locale=en&layout=compact&langs_count=10&hide=html,css&theme=radical" alt="alexutzujr" />
   </div>
-  <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexutzujr&show_icons=true&locale=en" alt="alexutzujr" />
+  <div style="flex: 1; min-width: 300px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexutzujr&show_icons=true&locale=en&theme=radical" alt="alexutzujr" />
   </div>
 </div>
 
