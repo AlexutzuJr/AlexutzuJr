@@ -47,10 +47,10 @@
 ## ⚡ Stats
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexutzujr&show_icons=true&locale=en&layout=compact&langs_count=10&hide=html,css&theme=radical" alt="alexutzujr" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexutzujr&show_icons=true&locale=en&layout=compact&langs_count=10&hide=html,css&theme=dark" alt="alexutzujr" />
   </div>
   <div style="flex: 1; min-width: 300px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexutzujr&show_icons=true&locale=en&theme=radical" alt="alexutzujr" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexutzujr&show_icons=true&locale=en&theme=dark" alt="alexutzujr" />
   </div>
 </div>
 
