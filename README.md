@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&random=false&width=436&lines=AI+Enthusiast)](https://git.io/typing-svg)
 
 ## 📝 About me
-- A passionate computer science student from Bucharest
+A passionate computer science student from Bucharest
 
 ## 🔗 Connect with me
 <p align="left">
