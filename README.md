@@ -60,8 +60,16 @@
 <details>
 <summary> About my projects</summary>
 
-- [Weather prediction](https://github.com/AlexutzuJr/weather_prediction): A Python project that predicts tomorrow's temperature using historical weather data. The project involves downloading, cleaning, and analyzing weather data, followed by building and improving a machine learning model for accurate next-day predictions. It's user-friendly and a great tool for weather forecasting!
-
 - [Real-time chat application](https://github.com/AlexutzuJr/chat_application): A C++ project for real-time chat communication between multiple clients using the Winsock2 API. The server manages multiple clients, relaying messages between them, while clients connect to send and receive messages. Straightforward to set up and perfect for creating a pleasant chat experience!
+
+- [Retail sales data analysis and reporting](https://github.com/AlexutzuJr/in_depth_performance_analysis): A retail data analysis project that examines sales and profits from orders. It cleans and processes order data, calculates metrics like discount and profit, and stores it in an SQL database, followed by SQL queries to identify top products, regional best sellers, and monthly sales trends. It also compares profit growth by subcategory across years, providing actionable insights for business strategies.
+
+- [Automating purchase for an eCommerce website](https://github.com/AlexutzuJr/automating_purchase_for_an_eCommerce_website): A Python project that automates purchasing a product from an eCommerce website using Selenium. The script selects a product, fills in the required details, and completes the checkout process as a guest user. It's efficient and simple to use, making online shopping faster and hassle-free!
+
+- [In-depth performance analysis](https://github.com/AlexutzuJr/in_depth_performance_analysis): A project for comprehensive IPL data analysis. It involves reading and processing large datasets from CSV files using Spark, performing aggregations, and applying window functions. Key analyses include calculating top scorers, economical bowlers, and the impact of toss outcomes. The results are visualized using Matplotlib and Seaborn, showcasing trends and insights like venue performance and dismissal types.
+
+- [API endpoint testing automation](https://github.com/AlexutzuJr/API_endpoint_testing_automation): A set of Python tests for API endpoints using the requests library. The project includes tests for various HTTP methods: DELETE, GET, POST, and PUT. The tests validate response status and data for user-related endpoints, ensuring correct API functionality with clear success messages. It’s an efficient tool for validating RESTful API interactions.
+ 
+- [Weather prediction](https://github.com/AlexutzuJr/weather_prediction): A Python project that predicts tomorrow's temperature using historical weather data. The project involves downloading, cleaning, and analyzing weather data, followed by building and improving a machine learning model for accurate next-day predictions. It's user-friendly and a great tool for weather forecasting!
 
 - [File management automator](https://github.com/AlexutzuJr/file_management_automator): A Python script that automates file organization by monitoring a source directory and moving files to categorized folders based on their types. The project is easy to use and helps keep your files well-organized with minimal effort!
