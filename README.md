@@ -71,5 +71,3 @@
 - [API endpoint testing automation](https://github.com/AlexutzuJr/API_endpoint_testing_automation): A set of Python tests for API endpoints using the requests library. The project includes tests for various HTTP methods: DELETE, GET, POST, and PUT. The tests validate response status and data for user-related endpoints, ensuring correct API functionality with clear success messages. It’s an efficient tool for validating RESTful API interactions.
  
 - [Weather prediction](https://github.com/AlexutzuJr/weather_prediction): A Python project that predicts tomorrow's temperature using historical weather data. The project involves downloading, cleaning, and analyzing weather data, followed by building and improving a machine learning model for accurate next-day predictions. It's user-friendly and a great tool for weather forecasting!
-
-- [File management automator](https://github.com/AlexutzuJr/file_management_automator): A Python script that automates file organization by monitoring a source directory and moving files to categorized folders based on their types. The project is easy to use and helps keep your files well-organized with minimal effort!
