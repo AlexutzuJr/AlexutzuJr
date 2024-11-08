@@ -5,11 +5,6 @@
 ## 📝 About me
 **A dedicated and passionate student with a broad interest in computer science and telecommunications**
 
-## 🔗 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/alexandru-nicolae-dinu-45357a266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandru-nicolae-dinu-45357a266" height="30" width="40" /></a>
-</p>
-
 ### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
